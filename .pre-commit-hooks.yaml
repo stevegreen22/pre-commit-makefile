@@ -1,6 +1,6 @@
 - id: makefile-doc
   name: Makefile documentation
   description: Using [make help], inserts available make targets into README.md.
-  entry: makefile-doc.sh
+  entry: runmakefile.sh
   language: script
   files: Makefile
